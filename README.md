@@ -1,5 +1,5 @@
 # BanklineApp
-## Aplicativo android para consulta de extrato bancário consumindo a API REST bankline-api
+## Interface web para geração de conta correntistas, movimentações e consulta de extrato bancário consumindo a API REST bankline-api
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
 
 ## Development server

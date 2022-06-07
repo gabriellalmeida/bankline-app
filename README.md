@@ -1,6 +1,9 @@
 # BanklineApp
 ## Interface web para geração de conta correntistas, movimentações e consulta de extrato bancário consumindo a API REST bankline-api
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
+Desafio proposto na Santander Dev Week. Semana de imersão Fullsatck</br>
+Link: https://www.dio.me/dev-week/santander/bootcamps
+
+</br>This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
 
 ## Development server
 
